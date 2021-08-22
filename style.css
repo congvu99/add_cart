@@ -1,0 +1,24 @@
+*{margin: 0;padding:0}
+
+/* css cho phần tin phổ biến */
+.tin_pho_bien{
+  width: 94%;
+  margin-left: 3%;
+  margin-right: 3%;
+}
+.tin_pho_bien .card{
+  width: 290px;
+  float: left;
+  margin: 0.9%;
+  }
+img.activator{
+ 
+  height: 200px;
+}
+.map_api iframe{
+  width: 90%;
+  height: 300px;
+  margin-left: 5%;
+  margin-right: 5%;
+}
+/* end tin phổ biến */
